@@ -5,5 +5,6 @@ function callUs(){
 
 function messageUs(){
     const p = document.getElementById('messageUs');
-    p.innerHTML="Email us : Stephenphuan@gmail.com , We will get back to you as soon as possible.";
+    p.innerHTML="Email us : onemobilecbd@gmail.com , We will get back to you as soon as possible.";
 }
+
